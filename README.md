@@ -5,3 +5,5 @@ Course: [Data Science Prerequisites - Numpy, Matplotlib, and Pandas in Python](h
 By: Lazy Programmer
 
 On: PacktPub
+
+[Recources](lazyprogrammer.me/numpy)
